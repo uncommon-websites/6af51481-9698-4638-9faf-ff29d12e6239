@@ -13,16 +13,16 @@
       <!-- Text Content -->
       <div class="md:col-span-5 mb-8 md:mb-0">
         <h2 class="font-display text-4xl md:text-6xl text-gray-900 mb-8 leading-tight">
-          Ideas don't build businesses.<br />
-          People do.
+          Backing founders<br />
+          who build the future.
         </h2>
         
         <div class="max-w-md">
           <p class="text-lg text-gray-600 font-light mb-6">
-            Wealth Management for a New Generation: Wealthfront Goes Public
+            From early-stage European tech to global Web3 innovation: How our portfolio companies scale to top-decile returns
           </p>
-          <a href="/article" class="text-sm text-gray-500 underline decoration-1 underline-offset-4 hover:text-black transition-colors">
-            Read more
+          <a href="/portfolio" class="text-sm text-gray-500 underline decoration-1 underline-offset-4 hover:text-black transition-colors">
+            Explore portfolio
           </a>
         </div>
       </div>
@@ -30,15 +30,14 @@
       <!-- Image Slider -->
       <div class="md:col-span-7">
         <div class="relative">
-          <div class="aspect-[4/3] bg-blue-900 overflow-hidden">
-             <!-- Using a specific image that looks like a corporate event/IPO -->
+          <div class="aspect-[4/3] bg-gray-900 overflow-hidden">
              <img 
-               src="https://images.unsplash.com/photo-1560179707-f14e90ef3623?q=80&w=1200&auto=format&fit=crop" 
-               alt="Wealthfront NASDAQ debut"
+               src="/generated/image-european-tech-startup-team-celebrating-f-1766584629603-0.webp" 
+               alt="Portfolio company milestone celebration"
                class="w-full h-full object-cover"
              />
              <div class="absolute bottom-4 right-4 text-xs text-white/80 font-light">
-               Wealthfront's NASDAQ debut
+               Portfolio company Series A celebration
              </div>
           </div>
           

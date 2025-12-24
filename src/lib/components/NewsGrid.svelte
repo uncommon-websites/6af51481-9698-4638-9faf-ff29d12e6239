@@ -1,19 +1,19 @@
 <script>
   const articles = [
     {
-      title: "Wealth Management for a New Generation: Wealthfront Goes...",
-      author: "Mike Volpi",
-      image: "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=600&auto=format&fit=crop"
+      title: "The Future of Web3: Why European Founders Are Leading the Charge",
+      author: "Heartcore Team",
+      image: "/generated/image-close-up-of-hands-working-on-laptop-with-1766584733922-0.webp"
     },
     {
-      title: "Security's Agentic Era Starts Here: Our Investment in 7AI",
-      author: "Shardul Shah",
-      image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=600&auto=format&fit=crop"
+      title: "Founder NPS: The Metric That Matters Most in Venture Capital",
+      author: "Investment Team",
+      image: "/generated/image-european-startup-founder-in-deep-convers-1766584736573-1.webp"
     },
     {
-      title: "Getting to know the Bornstein brothers",
-      author: "Nina Achadjian",
-      image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=600&auto=format&fit=crop"
+      title: "Building for the Long Term: Our Concentrated Investment Approach",
+      author: "Heartcore Capital",
+      image: "/generated/image-diverse-tech-team-collaborating-around-w-1766584739346-2.webp"
     }
   ];
 </script>
